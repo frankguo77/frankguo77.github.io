@@ -4,7 +4,7 @@ permalink:           pretty
 title:               'JekyllBook'
 tagline:             'A Jekyll theme'
 url:                 https://ebetica.github.io/jekyllbook/
-baseurl:             '/jekyllbook'
+baseurl:             '/notebook'
 homepage_title:      Home
 default_lang:        'en'
 
